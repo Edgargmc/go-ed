@@ -5,7 +5,7 @@ import (
 	"github.com/edgargmc/hydra/factory/appliances"
 )
 
-func main() {
+func test() {
 	var myTpe int
 	fmt.Scan(&myTpe)
 
